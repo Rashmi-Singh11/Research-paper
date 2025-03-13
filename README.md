@@ -144,14 +144,3 @@ poetry run python cli.py "diabetes research" -f results.csv
 
 ---
 
-## 🤝 **Contributing**  
-📢 **Want to improve this project?** Feel free to fork the repo, make changes, and submit a **pull request**!  
-
----
-
-## 📞 **Contact & Support**  
-💡 **Developed by:** Rashmi Singh  
-📧 **Email:** rashmi@example.com  
-🔗 **GitHub:** [Rashmi-Singh11](https://github.com/Rashmi-Singh11)  
-
-📢 **Thank you for using the Research Paper Fetcher! 🚀**  
